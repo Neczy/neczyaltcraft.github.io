@@ -1,0 +1,5 @@
+{
+  "permissions": [ "activeTab" ],
+  "name": "https://neczy.github.io/neczyaltcraft.github.io",
+  "display": "standalone"
+}
